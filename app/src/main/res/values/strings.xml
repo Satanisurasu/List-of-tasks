@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task List</string>
+    <string name="active_tasks_tab">Active Tasks</string>
+    <string name="completed_tasks_tab">Completed Tasks</string>
+    <string name="task_title_hint">Task Title</string>
+    <string name="task_description_hint">Task Description</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="delete_button">Delete</string>
+    <string name="complete_button">Complete</string>
+</resources>
